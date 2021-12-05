@@ -7,7 +7,7 @@
 (Trình biên dịch)
 
 
-Sunh viên: Trần Tuấn Lâm
+Sinh viên: Trần Tuấn Lâm
 
 Thầy hướng dẫn: Phan Đăng Hải
 
