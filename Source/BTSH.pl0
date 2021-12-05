@@ -1,0 +1,14 @@
+
+VAR x, y;
+BEGIN
+  y:= X+y;
+  y :=abs(x);
+  y:= ARCTAN(X);
+  y :=cos(x);
+  y :=Exp(x);
+  y :=ln(x);
+  y :=sin(x);
+  y :=sqrt(x);
+  y :=sqr(x);
+  y :=tan(x);
+END.

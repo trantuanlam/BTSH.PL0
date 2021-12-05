@@ -1,0 +1,25 @@
+procedure A;
+	var x, y, Counter;
+
+procedure B;
+	var j, i;
+procedure C;
+var k;
+begin
+  if Counter <=2  then begin        
+    Counter := Counter + 1; 
+    call B ;
+   end
+end;
+begin
+   Call C;
+end;
+
+begin
+   Counter := 0;
+   call B;
+end;
+
+begin
+    call A;
+end.

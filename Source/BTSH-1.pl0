@@ -1,0 +1,18 @@
+const
+n=8, m=10, Coeff=200 ;
+var x, y, z ;
+begin
+  y:= x+y;
+  y:= x/2 + x/3;
+  y:= exp(sin(x))-1;
+  y:= 1/(1+100/1/1/(100+1/(x+sin(x)+exp(x/5)+ 1/(x*x/2+10000))));
+  y:= x/2 + x*x/3;
+
+end.
+  y:= Sin(x-0.5+z);
+  y:= Sin(x*x-1);
+  y:= Sin(x-sin(x));
+  y:= x+sin(x)+exp(x);
+  x:= y;
+  y:= 2/sin(x) + tan(n*x/3);
+

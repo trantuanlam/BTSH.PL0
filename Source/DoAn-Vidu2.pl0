@@ -1,0 +1,16 @@
+var x, y, sinx, cosx;
+procedure sincos;
+begin
+  sinx:= sin(x);
+  cosx:= cos(x)
+end;
+
+begin
+  x:= 1;
+  while x < 5 do begin
+    call sincos;
+    x:= x+1;
+  end;
+
+  y:= sin(x);
+end.

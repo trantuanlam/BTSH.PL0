@@ -1,0 +1,29 @@
+
+procedure A;
+var x, y, Counter;
+
+procedure B;
+var j, i;
+procedure C;
+var k;
+begin
+    if Counter < 5 then begin   
+      
+       call B ;
+       Counter := Counter + 1;
+
+     end
+   end;
+begin
+   Call C;
+end;
+
+begin
+   Counter := 0;
+
+   call B;
+end;
+
+begin
+    call A;
+end.

@@ -1,0 +1,7 @@
+const Heso1=1, Heso2=2;
+var x, y;
+begin
+  y :=sin(x)+ cos(2*x) + x*x; 
+  y:= 1/(abs(x)+sin(x)+exp(x/5)+ 1/(x*x/2+10));
+  y:= 1+1/(0.1+abs(x+sin(x)+exp(x/5)+ 1/(x*x/2+10)));
+end.

@@ -1,0 +1,6 @@
+const Heso1=1, Heso2=2;
+var x, y;
+begin
+  y:= x;
+  y:= sin(x);
+end.

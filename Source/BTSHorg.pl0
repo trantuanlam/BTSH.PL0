@@ -1,0 +1,9 @@
+const
+n=8, m=10, Coeff=200;
+var x, y ;
+begin
+  y:= 
+sin(((100*((m*2+n)/n+1000)+2)/Coeff+(10+Coeff)/n)/((m+n)/coeff+200
+));
+end.
+

@@ -1,0 +1,4 @@
+VAR X, Y;
+BEGIN
+ Y :=X+1+2/abs(1+sin(x)/(2+cos(x)));
+END.
